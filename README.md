@@ -38,6 +38,11 @@ Welcome to my personal portfolio website! This project showcases my professional
 
 https://github.com/user-attachments/assets/946bf9d8-fc07-463d-b519-789615ae6ca5
 
-## **Connect with Me** 🤝
+## **Connect with Me** 📤 
+- Email: shahlaa.alnaimi@gmail.com
+- Linkedin: [@Shahlaa Haider](https://www.linkedin.com/in/shahlaahaider/)
+- 
+## **Contributing** 🤝
+Contributions are welcome! If you'd like to contribute to the project.
 
 
